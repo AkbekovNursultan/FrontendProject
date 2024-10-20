@@ -1,0 +1,31 @@
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+  
+  body {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .phone {
+    background-color: #a19191;
+    border-radius: 40px;
+    height: 650px;
+    width: 360px; 
+    padding: 20px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+    position: relative;
+  }
+    
+  .card {
+  }
+  
+  .card-image {
+    width: 100%;
+    border-radius: 10px;
+  }
