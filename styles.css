@@ -168,9 +168,9 @@ input:checked + .slider:before {
 .triangle {
   height: 0;
   width: 0;
-  border-left: 425px solid transparent;
+  border-left: 400px solid transparent;
   border-bottom: 100px solid transparent;
-  border-top: 325px solid rgb(58, 128, 233);
+  border-top: 200px solid rgb(58, 128, 233);
   position: absolute;
   right: 0px;
   
